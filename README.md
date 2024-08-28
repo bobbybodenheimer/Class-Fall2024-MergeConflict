@@ -1,4 +1,4 @@
 # Example for Conflicts
-Name:  
-Favorite Ice Cream:  
-Favorite Candy:  
+Name:  Sodabe
+Favorite Ice Cream:  Cookie and cream
+Favorite Candy:  Zafforan Candy
